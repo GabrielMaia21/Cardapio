@@ -21,10 +21,6 @@ Este é um projeto pessoal que desenvolvi para criar um **Cardápio Digital para
 🔍 Acesse o projeto online: [Cardápio Digital](https://seu-link-aqui.vercel.app)  
 📂 Código-fonte no GitHub: [GitHub.com/GabrielMaia21/Cardapio](https://github.com/GabrielMaia21/Cardapio)
 
-## 📸 Prévia do Projeto
-
-*(Adicione aqui uma captura de tela do projeto para mostrar a interface!)*
-
 ## 🛠 Como Rodar Localmente
 
 1. Clone o repositório:
