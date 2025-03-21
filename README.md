@@ -36,7 +36,3 @@ Este é um projeto pessoal que desenvolvi para criar um **Cardápio Digital para
 ## 📩 Contribuições
 
 Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias! 😊
-
-## 📜 Licença
-
-Este projeto foi desenvolvido apenas para fins educacionais e de aprendizado. Sinta-se livre para explorar e modificar! 🚀
